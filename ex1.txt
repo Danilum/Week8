@@ -1,0 +1,24 @@
+Daniils-MacBook-Air:Week8 daniilshilintsev$ vm_stat
+Mach Virtual Memory Statistics: (page size of 4096 bytes)
+Pages free:                               12289.
+Pages active:                            591648.
+Pages inactive:                          580601.
+Pages speculative:                         3713.
+Pages throttled:                              0.
+Pages wired down:                        483896.
+Pages purgeable:                          39214.
+"Translation faults":                 923246675.
+Pages copy-on-write:                   32128263.
+Pages zero filled:                    427920581.
+Pages reactivated:                     73270421.
+Pages purged:                          14328320.
+File-backed pages:                       182418.
+Anonymous pages:                         993544.
+Pages stored in compressor:             1877696.
+Pages occupied by compressor:            424706.
+Decompressions:                        79932958.
+Compressions:                         106630595.
+Pageins:                               30781492.
+Pageouts:                                602793.
+Swapins:                               26154362.
+Swapouts:                              27712083.

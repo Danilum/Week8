@@ -1,0 +1,3 @@
+Physical address refers to hardware addresses of physical memory.
+AND
+Virtual address refers to the virtual store viewed by the process.

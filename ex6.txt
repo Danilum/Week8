@@ -1,0 +1,7 @@
+Virtual address = 16 Bit
+Size of page = 8 KB = 8192 B
+8192 = 2^13 
+=> Offset is 13
+=> 16 - 13 = 3 bits are free 
+=> 2^3 = 8 entries are needed for a single-level linear page table
+Answer: 8 pages
